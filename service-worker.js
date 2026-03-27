@@ -1,6 +1,6 @@
 const CACHE_NAME = 'cage-counter-v5';
 const urlsToCache = [
-  './dashboard.html',                     // the HTML file itself
+  'https://tr00pst0ck.github.io/OGCageCounter/dashboard.html',                     // the HTML file itself
   'manifest.json',
   'https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css',
