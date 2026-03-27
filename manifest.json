@@ -2,7 +2,7 @@
   "name": "Cage Counter",
   "short_name": "CC",
   "description": "Cage Counter",
-  "start_url": "/dashboard.html",
+  "start_url": "https://tr00pst0ck.github.io/OGCageCounter/dashboard.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#0c0f0a",
